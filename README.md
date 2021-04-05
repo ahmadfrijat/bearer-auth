@@ -1,9 +1,9 @@
 # bearer-auth
 
 
-* [GitHub actions](https://github.com/ahmadfrijat/basic-auth/actions)
-* [pull request](https://github.com/ahmadfrijat/basic-auth/pull/3)
-* [heroku deployment app](https://ahmad-basic-auth.herokuapp.com/)  
+* [GitHub actions](https://github.com/ahmadfrijat/bearer-auth/actions)
+* [pull request](https://github.com/ahmadfrijat/bearer-auth/pull/1)
+* [heroku deployment app](https://ahmad-bearer-auth.herokuapp.com/)  
 
 
 # how to work :
